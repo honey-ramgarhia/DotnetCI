@@ -1,4 +1,6 @@
-![](https://github.com/honey-ramgarhia/DotnetCI/workflows/Build%20And%20Test/badge.svg)
+![](https://github.com/honey-ramgarhia/DotnetCI/workflows/Build%20and%20Test/badge.svg)
 
-#DotnetCI
+DotnetCI
+========
+
 Demo project to showcase how to setup a CI pipeline for .NET project.
